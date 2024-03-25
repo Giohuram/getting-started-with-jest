@@ -1,0 +1,20 @@
+{
+  "name": "getting-started-with-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "giovanni_huram",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "@babel/preset-react": "^7.24.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.8"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
